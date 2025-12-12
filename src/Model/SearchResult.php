@@ -89,7 +89,7 @@ class SearchResult
      *
      * @var string
      */
-    public string $imageUrl;
+    public string $image_url;
     /**
      * The name.
      *
