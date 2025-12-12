@@ -131,7 +131,7 @@ class SearchResult
      *
      * @var string
      */
-    public string $primaryLanguage;
+    public string $primary_language;
     /**
      * Original type
      *
