@@ -1,3 +1,7 @@
+This is a temporary fork of [canihavesomecoffee/theTVDbAPI](https://github.com/canihavesomecoffee/theTVDbAPI) to allow the legacy [sorfi.org](https://sorfi.org) to run in a modern environment (Symfony ^8.0, PHP ^8.4). Original README below.
+
+---
+
 # CanIHaveSomeCoffee/TheTVDbAPI
 
 [![Packagist](https://img.shields.io/packagist/v/canihavesomecoffee/thetvdbapi.svg)](https://packagist.org/packages/canihavesomecoffee/thetvdbapi)
